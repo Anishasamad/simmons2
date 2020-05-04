@@ -1,0 +1,179 @@
+section{
+  background-color:rgb(76, 129, 228) ;
+}
+.list ul li{
+  list-style-type: none;
+  margin: 0px;
+  color: white;
+  display: inline-block;
+  float: left;
+  text-decoration: none;
+  }
+
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.logo
+{
+  color:white; 
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 43px;
+  letter-spacing: 0.115em;
+  line-height: 1;
+  font-weight: 600;
+  font-style: normal;
+}
+.BOS{
+  color: rgb(49, 75, 124);
+  text-align: center;
+}
+
+.first-list{
+  display: inline-block;
+  color: white;
+}
+.logo
+{  color: white;
+text-align: center;
+
+}
+.BOS{
+  color: rgb(173, 188, 215);
+margin-left: 730px;
+margin-top: -20.283px;
+font-size: 24px;
+line-height: 1.1;
+letter-spacing: -0.08em;
+font-weight: 500;
+padding-left: -21px;
+padding-top: 25px;
+margin-bottom: -16px;
+}
+
+button
+{
+  background-color:rgb(95, 144, 235) ;
+   color: white;
+   border-color: black;
+    border-radius: 3px;
+    border-top-width: 1px;
+border-top-style: solid;
+border-bottom-width: 1px;
+border-bottom-style: solid;
+border-right-width: 1px;
+border-right-style: solid;
+border-left-width: 1px;
+border-left-style: solid;
+padding-right: 30px;
+padding-left: 30px;
+padding-top: 10px;
+padding-bottom: 10px;
+margin-left: 30px;
+margin-right: -26px;
+margin-top: -3px;
+margin-bottom: -3px;
+    color: white;
+    float: left;
+}
+.one { float: left;
+
+}
+.fourth
+{
+  background-color: rgb(34, 119, 34);
+  color: white;
+  margin-left: 55px;
+  padding-left: 40px;
+  margin-right: 250px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+.fifth
+{
+  
+  background-color:  #e7ecf0;
+ color: black;
+ margin-left: 55px;
+ padding-top: 20px;
+margin-top: 15px;
+padding-bottom: 20px;
+padding-right: 20px;
+padding-left: 20px;
+margin-bottom: 0px;
+margin-right:909px;
+}
+.sixth
+{
+  background-color: #e7ecf0;
+ color: black;
+ margin-left: 55px;padding-top: 20px;
+ margin-top: 15px;
+ padding-bottom: 20px;
+ padding-right: 20px;
+ padding-left: 20px;
+ margin-bottom: 0px;
+ margin-right:909px;
+
+}
+.seven
+{
+  background-color: #e7ecf0;
+ color: black;
+ margin-left: 55px;
+ padding-top: 20px;
+margin-top: 15px;
+padding-bottom: 20px;
+padding-right: 20px;
+padding-left: 20px;
+margin-bottom: 0px;
+margin-right:909px;
+
+}
+.eight
+{
+  background-color: purple;
+  color: white;
+  margin-left: 55px;
+  padding-top: 20px;
+margin-top: 15px;
+padding-bottom: 20px;
+padding-right: 20px;
+padding-left: 20px;
+margin-bottom: 0px;
+margin-right:909px;
+
+}
+.ninth
+{
+  background-color: rgb(52, 52, 128);
+  color: white;
+  margin-left: 55px;
+  padding-top: 20px;
+margin-top: 15px;
+padding-bottom: 20px;
+padding-right: 20px;
+padding-left: 20px;
+margin-bottom: 0px;
+margin-right:909px;
+
+}
+#button1
+{
+  background-color: white;
+  color: green;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+}
+.tenth
+{
+  background-color: black;
+  margin-left: 0px;
+  padding-left: 0px;
+  margin-right: 250px;
+  padding-top: 25px;
+}
